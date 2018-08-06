@@ -12,4 +12,4 @@ This repo is supposed to contain all templates codes which i can refer to if i w
 
 ## Matplotlib
 
-## Seabonr
+## Seaborn
